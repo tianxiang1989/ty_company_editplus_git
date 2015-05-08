@@ -1,6 +1,4 @@
-aaa]\
-dsd
-hello kitty 
+repo init -u ssh://10.10.100.11:29418/manifest.git -m stm_kk_mt6572mwg_bsp_int.xml --repo-url=ssh://10.10.100.11:29418/repo.git --repo-branch=master --no-repo-verify&&repo sync
 
-hello dog
-hello baby
+
+973619_9570
