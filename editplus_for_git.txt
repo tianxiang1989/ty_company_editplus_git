@@ -1,4 +1,7 @@
+===============973619_9570=================
 repo init -u ssh://10.10.100.11:29418/manifest.git -m stm_kk_mt6572mwg_bsp_int.xml --repo-url=ssh://10.10.100.11:29418/repo.git --repo-branch=master --no-repo-verify&&repo sync
 
 
 973619_9570
+
+===========================================
